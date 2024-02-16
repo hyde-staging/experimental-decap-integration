@@ -38,7 +38,9 @@ php -S localhost:3000 _admin/index.php
 
 ## Issues
 
-At the moment, it seems to be hard to get support for Blade pages.
+At the moment, it seems to be hard to get support for Blade pages. See https://github.com/decaporg/decap-cms/issues/7109
+
+I also have some security concerns, see https://github.com/decaporg/decap-cms/issues/7108
 
 ## Resources
 
